@@ -9,7 +9,7 @@
 			"changestate": "normal",
 			"name": "View in NVIDIA 3D Vision Photo Viewer - SBS Cross-eyed",
 			"path": "%ProgramFiles(x86)%\\NVIDIA Corporation\\3D Vision\\nvstview.exe",
-			"args": " -show \"[DOWNLOADED_PATH]\"",
+			"args": " -showfiles \"[DOWNLOADED_PATH]\"",
 			"pre": "",
 			"post": "",
 			"toolbar": false,
