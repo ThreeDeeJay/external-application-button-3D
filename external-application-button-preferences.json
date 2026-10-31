@@ -1,0 +1,139 @@
+{
+	"active": "",
+	"apps": {
+		"0.2566649876167434": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "normal",
+			"name": "View in 3D - SBS Cross-eyed",
+			"path": "%ProgramFiles%\\sView\\sView.exe",
+			"args": "--fullscreen viewMode=flat --srcFormat=crossEyed --demo=\"[DOWNLOADED_PATH]\"",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"link",
+				"image",
+				"video"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": "",
+			"index": 1
+		},
+		"0.2101331020998961": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "normal",
+			"name": "View in 3D - SBS Parallel",
+			"path": "%ProgramFiles%\\sView\\sView.exe",
+			"args": "--fullscreen viewMode=flat --srcFormat=parallelPair --demo=\"[DOWNLOADED_PATH]\"",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"link",
+				"image",
+				"video"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": "",
+			"index": 2
+		},
+		"0.3566129613959952": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "normal",
+			"name": "View in 3D - TAB Left Top",
+			"path": "%ProgramFiles%\\sView\\sView.exe",
+			"args": "--fullscreen viewMode=flat --srcFormat=overUnderLR --demo=\"[DOWNLOADED_PATH]\"",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"link",
+				"image",
+				"video"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": "",
+			"index": 3
+		},
+		"0.37966599435602666": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "normal",
+			"name": "View in 3D - TAB Right Top",
+			"path": "%ProgramFiles%\\sView\\sView.exe",
+			"args": "--fullscreen viewMode=flat --srcFormat=overUnderRL --demo=\"[DOWNLOADED_PATH]\"",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"link",
+				"image",
+				"video"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": "",
+			"index": 4
+		},
+		"0.4307407863729753": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "normal",
+			"name": "View in 3D - Row interlaced",
+			"path": "%ProgramFiles%\\sView\\sView.exe",
+			"args": "--fullscreen viewMode=flat --srcFormat=interlaceRow --demo=\"[DOWNLOADED_PATH]\"",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"link",
+				"image",
+				"video"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": "",
+			"index": 5
+		},
+		"0.23565509878099267": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "normal",
+			"name": "View in 3D - Column interlaced",
+			"path": "%ProgramFiles%\\sView\\sView.exe",
+			"args": "--fullscreen viewMode=flat --srcFormat=interlaceColumn --demo=\"[DOWNLOADED_PATH]\"",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"link",
+				"image",
+				"video"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": "",
+			"index": 6
+		}
+	},
+	"last-update": 1793329541468,
+	"save": "blank"
+}
