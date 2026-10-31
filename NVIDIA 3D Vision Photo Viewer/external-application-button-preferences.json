@@ -1,0 +1,29 @@
+{
+	"active": "",
+	"apps": {
+		"0.2566649876167434": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "normal",
+			"name": "View in NVIDIA 3D Vision Photo Viewer - SBS Cross-eyed",
+			"path": "%ProgramFiles(x86)%\\NVIDIA Corporation\\3D Vision\\nvstview.exe",
+			"args": " \"[DOWNLOADED_PATH]\"",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"link",
+				"image",
+				"video"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": "",
+			"index": 1
+		}
+	},
+	"last-update": 1793329541468,
+	"save": "blank"
+}
